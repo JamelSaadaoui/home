@@ -5,7 +5,7 @@ const navBar = {
 
 // Main Body SECTION
 const mainBody = {
-  gradientColors: "#4484ce, #1ad7c0, #ff9b11, #9b59b6, #ff7f7f, #ecf0f1",
+  gradientColors: "#0066bf",
   firstName: "Jamel",
   middleName: "",
   lastName: "Saadaoui",
@@ -39,7 +39,7 @@ const mainBody = {
 const about = {
   show: true,
   heading: "About Me",
-  imageLink: require("../editable-stuff/hashirshoaeb.png"),
+  imageLink: require("../editable-stuff/Jamel_Saadaoui_9303ter.png"),
   imageSize: 375,
   message:
     "My name is Jamel Saadaoui. I am a teacher and researcher in social sciences, specialized in several topics related to international economics. On this page, I present my current and future research projects and I try to provide some information for the public and for my students. I sometimes write on Probability, Philosophy, Economics, and other topics with a macro perspective. My recent works explore the interactions between geopolitical tensions and the economy.",
