@@ -55,7 +55,7 @@ const repos = {
   heading: "Recent Projects",
   gitHubUsername: "JamelSaadaoui", //i.e."johnDoe12Gh"
   reposLength: 2,
-  specificRepos: [],
+  specificRepos: ["ResearchPapers", "EconMacroBlog"],
 };
 
 // Leadership SECTION
