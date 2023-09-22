@@ -43,6 +43,7 @@ const about = {
   imageSize: 375,
   message:
     "My name is Jamel Saadaoui. I am a teacher and researcher in social sciences, specialized in several topics related to international economics. On this page, I present my current and future research projects and I try to provide some information for the public and for my students. I sometimes write on Probability, Philosophy, Economics, and other topics with a macro perspective. My recent works explore the interactions between geopolitical tensions and the economy.",
+  resume: "https://github.com/JamelSaadaoui/home/blob/master/src/editable-stuff/CV_Jamel_Saadaoui_OL_8aug2023.pdf",
 };
 
 // PROJECTS SECTION
